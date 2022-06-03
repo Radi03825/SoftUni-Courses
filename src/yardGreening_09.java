@@ -1,5 +1,3 @@
-package FirstStepsInCodingLab;
-
 import java.util.Scanner;
 
 public class yardGreening_09 {

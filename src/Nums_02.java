@@ -1,5 +1,3 @@
-package FirstStepsInCodingLab;
-
 public class Nums_02 {
     public static void main(String[] args) {
 
